@@ -70,10 +70,11 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 Hi, I'm now a master student at Tsinghua University advised by Prof.[Yujiu Yang](https://sites.google.com/view/iigroup-thu/home) and a research intern at [IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). Currently, I am working on Natural Language Processing, especially on Reasoning via Language Model.
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
