@@ -46,11 +46,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tianhongzxy
-    label: Follow me on Twitter
-    display:
-      header: true
+# label: Follow me on Twitter
+# display:
+# header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=rbHKuvYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -75,6 +75,8 @@ email: ''
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Hi, I'm now a master student at Tsinghua University advised by Prof.[Yujiu Yang](https://sites.google.com/view/iigroup-thu/home) and a research intern at [IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). Currently, I am working on Natural Language Processing, especially on Reasoning via Language Model.
+Hi, I'm now a master student at Tsinghua University advised by Prof.[Yujiu Yang](https://sites.google.com/view/iigroup-thu/home).
+
+Currently, I'm a research intern at [IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). My research focuses on Natural Language Processing, especially on Reasoning via Language Models.
 
 
