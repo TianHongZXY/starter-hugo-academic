@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyu Zhu(朱欣宇)
+title: Xinyu Zhu
 
 # Full name (for SEO)
 first_name: Xinyu
@@ -24,6 +24,7 @@ bio: My research interests include Natural Language Processing.
 interests:
   - Language Model Reasoning
   - Text Generation
+  - Pre-trained Language Model
 
 # Education to show in About widget
 education:
