@@ -28,7 +28,7 @@ publication_types: ['1']
 publication: In *SDU Workshop at Association for the Advancement of Artificial Intelligence 2022*
 publication_short: In SDU@AAAI 2022
 
-abstract: Acronym disambiguation (AD) is a practical task that aims at matching acronyms with their expansion alternatives. The significance of this task is to alleviate the problem of acronym buse, which is a common phenomenon in the scientific domain. Although it simplifies the expression, great obstacles are brought to readers outside the field. In this paper, we introduce a new method for acronym disambiguation, which is different from the previous binary classification model. We argue that treating the task as a multi-choice problem and incorporating negative expansion sampling can more effectively capture the relation between the acronym and its corresponding expansion. Experiments show our model obtains significant improvement over the baseline and other methods.
+abstract: 'Acronym disambiguation (AD) is a practical task that aims at matching acronyms with their expansion alternatives. The significance of this task is to alleviate the problem of acronym buse, which is a common phenomenon in the scientific domain. Although it simplifies the expression, great obstacles are brought to readers outside the field. In this paper, we introduce a new method for acronym disambiguation, which is different from the previous binary classification model. We argue that treating the task as a multi-choice problem and incorporating negative expansion sampling can more effectively capture the relation between the acronym and its corresponding expansion. Experiments show our model obtains significant improvement over the baseline and other methods.'
 
 
 tags: []
