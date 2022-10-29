@@ -14,9 +14,9 @@ authors:
   - Yujiu Yang
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 date: "2022-10-29T00:01:00Z"
 
 # Publication type.
