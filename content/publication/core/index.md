@@ -17,7 +17,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: "2022-10-29T:01:00Z"
+date: "2022-10-29T00:01:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
