@@ -17,7 +17,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: "2022-10-29:00:00Z"
+date: "2022-10-29T:01:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,7 +41,3 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2210.08590'
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}

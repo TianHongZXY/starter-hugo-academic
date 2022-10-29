@@ -41,7 +41,3 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2210.08590'
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
