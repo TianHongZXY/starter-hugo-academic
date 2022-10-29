@@ -27,7 +27,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "PrePrint"
 # publication: In *The 2022 Conference on Empirical Methods in Natural Language Processing*
 # publication_short: In EMNLP2022
 
