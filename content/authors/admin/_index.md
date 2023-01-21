@@ -78,6 +78,6 @@ email: ''
 
 Hi, I'm now a master student at Tsinghua University advised by Prof.[Yujiu Yang](https://sites.google.com/view/iigroup-thu/home).
 
-Currently, I'm a research intern at [IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). My research focuses on Natural Language Processing, especially on Reasoning via Language Models.
+Currently, I'm a research intern at Microsoft Rearch Asia. Before that, I was an intern at [IDEA-CCNL](https://www.idea.edu.cn/ccnl.html). My research focuses on Natural Language Processing, especially on Reasoning via Language Models. My long-term research goal is to enable human-level reasoning, decision-making and cognitive ability for NLP systems.
 
 
